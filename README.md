@@ -1,4 +1,4 @@
-HeLa Cells Segmentation (ISBI Cell Tracking Challenge)
+HeLa Cells Segmentation (ISBI Cell Tracking Challenge) with SAM (Segment Anything Model)
 
 
 Antonio J. Brych,
